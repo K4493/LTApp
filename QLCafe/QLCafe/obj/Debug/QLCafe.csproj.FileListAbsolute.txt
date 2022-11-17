@@ -1,0 +1,12 @@
+D:\CNTT\LapTrinhApp\LTApp\QLCafe\QLCafe\bin\Debug\QLCafe.exe
+D:\CNTT\LapTrinhApp\LTApp\QLCafe\QLCafe\bin\Debug\QLCafe.pdb
+D:\CNTT\LapTrinhApp\LTApp\QLCafe\QLCafe\obj\Debug\QLCafe.csproj.AssemblyReference.cache
+D:\CNTT\LapTrinhApp\LTApp\QLCafe\QLCafe\obj\Debug\QLCafe.frmLogin.resources
+D:\CNTT\LapTrinhApp\LTApp\QLCafe\QLCafe\obj\Debug\QLCafe.Properties.Resources.resources
+D:\CNTT\LapTrinhApp\LTApp\QLCafe\QLCafe\obj\Debug\QLCafe.csproj.GenerateResource.cache
+D:\CNTT\LapTrinhApp\LTApp\QLCafe\QLCafe\obj\Debug\QLCafe.csproj.CoreCompileInputs.cache
+D:\CNTT\LapTrinhApp\LTApp\QLCafe\QLCafe\obj\Debug\QLCafe.exe
+D:\CNTT\LapTrinhApp\LTApp\QLCafe\QLCafe\obj\Debug\QLCafe.pdb
+D:\CNTT\LapTrinhApp\LTApp\QLCafe\QLCafe\obj\Debug\QLCafe.frmInfor.resources
+D:\CNTT\LapTrinhApp\LTApp\QLCafe\QLCafe\obj\Debug\QLCafe.frmRegister.resources
+D:\CNTT\LapTrinhApp\LTApp\QLCafe\QLCafe\obj\Debug\QLCafe.frmAccontInfor.resources
