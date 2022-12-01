@@ -23,12 +23,19 @@ namespace QLCafe
 
         private void đăngXuấtToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            
+            this.Close();
         }
 
         private void thôngTinCáNhânToolStripMenuItem_Click(object sender, EventArgs e)
         {
             frmAccontInfor f = new frmAccontInfor();
+            f.ShowDialog();
+        }
+
+        private void danhThuToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmAdmin f = new frmAdmin();
+            this.Hide();
             f.ShowDialog();
         }
     }

@@ -44,5 +44,10 @@ namespace QLCafe
         {
 
         }
+
+        private void trởVềToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

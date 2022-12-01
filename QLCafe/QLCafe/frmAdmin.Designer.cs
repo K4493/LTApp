@@ -173,6 +173,7 @@
             this.trởVềToolStripMenuItem.Name = "trởVềToolStripMenuItem";
             this.trởVềToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.trởVềToolStripMenuItem.Text = "Trở về";
+            this.trởVềToolStripMenuItem.Click += new System.EventHandler(this.trởVềToolStripMenuItem_Click);
             // 
             // tbTable
             // 
