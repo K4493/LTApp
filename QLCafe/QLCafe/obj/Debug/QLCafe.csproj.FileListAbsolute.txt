@@ -11,3 +11,4 @@ D:\CNTT\LapTrinhApp\LTApp\QLCafe\QLCafe\obj\Debug\QLCafe.frmInfor.resources
 D:\CNTT\LapTrinhApp\LTApp\QLCafe\QLCafe\obj\Debug\QLCafe.frmRegister.resources
 D:\CNTT\LapTrinhApp\LTApp\QLCafe\QLCafe\obj\Debug\QLCafe.frmAccontInfor.resources
 D:\CNTT\LapTrinhApp\LTApp\QLCafe\QLCafe\obj\Debug\QLCafe.frmAdmin.resources
+D:\CNTT\LapTrinhApp\LTApp\QLCafe\QLCafe\obj\Debug\QLCafe.frmTTNV.resources

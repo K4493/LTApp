@@ -28,7 +28,7 @@ namespace QLCafe
 
         private void thôngTinCáNhânToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            frmAccontInfor f = new frmAccontInfor();
+            frmTTNV f = new frmTTNV();
             f.ShowDialog();
         }
 
@@ -37,6 +37,16 @@ namespace QLCafe
             frmAdmin f = new frmAdmin();
             this.Hide();
             f.ShowDialog();
+        }
+
+        private void btnStart_Click(object sender, EventArgs e)
+        {
+          
+        }
+
+        private void frmInfor_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

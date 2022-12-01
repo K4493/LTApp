@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Database.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -69,12 +70,19 @@
     <Compile Include="ThongTinCaNhan.Designer.cs">
       <DependentUpon>ThongTinCaNhan.cs</DependentUpon>
     </Compile>
+    <Compile Include="Thongtinnhanvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Thongtinnhanvien.Designer.cs">
+      <DependentUpon>Thongtinnhanvien.cs</DependentUpon>
+    </Compile>
     <Compile Include="ThongTinQuan.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="ThongTinQuan.Designer.cs">
       <DependentUpon>ThongTinQuan.cs</DependentUpon>
     </Compile>
+    <Compile Include="ttNhanVien.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -95,6 +103,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="ThongTinCaNhan.resx">
       <DependentUpon>ThongTinCaNhan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Thongtinnhanvien.resx">
+      <DependentUpon>Thongtinnhanvien.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ThongTinQuan.resx">
       <DependentUpon>ThongTinQuan.cs</DependentUpon>
