@@ -11,6 +11,7 @@ namespace QLCafe
     class ttNhanVien
     {
         Database dtTV;
+    
         public ttNhanVien()
         {
             dtTV = new Database();

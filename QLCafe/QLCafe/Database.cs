@@ -16,7 +16,7 @@ namespace QLCafe
 
         public Database()
         {
-            string strCnn = "Data Source =.;Database = QLCafe; Integrated = True;";
+            string strCnn = @"Data Source=TUANKIET\\SQLEXPRESS01;Initial Catalog=QLCF;Integrated Security=True";
             sqlConn= new SqlConnection(strCnn); 
         }
 
